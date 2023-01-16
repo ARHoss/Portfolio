@@ -3,7 +3,7 @@ Portfolio
 It is a project that showcases skills and knowledge I have gained during my career as Software Developer. 
 
 
-Link to project: http://recruiters-love-seeing-live-demos.com/
+Link to project: https://abdul-rauf.netlify.app/
 
 
 Tech used: HTML, CSS, JavaScript
@@ -18,11 +18,9 @@ Optimizations: Continuosly Added new projects and fixing bugs.
 Lessons Learned:
 I have developed more intense skills in CSS while doing this portfolio and down the line looking to add more JS functions on it.
 
-Examples:
-Take a look at these couple examples that I have in my own portfolio:
 
-Palettable: https://github.com/alecortega/palettable
+Andy Fresh: https://abdul-rauf.netlify.app/projects/html5up-spectral/index.html
 
-Twitter Battle: https://github.com/alecortega/twitter-battle
+War-Card-Game: https://arhoss.github.io/Card-Game-Of-War/index.html
 
-Patch Panel: https://github.com/alecortega/patch-panel
+Al-Huda Musallah: https://abdul-rauf.netlify.app/projects/html5up-dimension/index.html
