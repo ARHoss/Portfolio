@@ -1,0 +1,68 @@
+#body{
+    border-color: black !important;
+}
+
+
+#header{
+    color: black;
+    font-weight: 600;
+}
+
+#header nav ul {
+    border: 1px solid black;
+}
+
+#header nav ul li {
+    border-left: solid 1px black; 
+}
+
+#bg:after{
+    background-image: url("../../images/white-background.jpg");
+    background-color: white;
+}
+
+.musallahlLogo{
+    display: block;
+    width: 100%;
+}
+
+
+#header .content {
+    border-color: black;
+}
+
+.inner{
+    width: 40%;
+    margin: 0 30%; 
+    padding: 0 !important;
+
+}
+
+#header > *:before {
+    background: black;
+}
+
+#header nav.use-middle:after {
+    background: black;
+}
+
+
+.videoContainter{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;    
+}
+
+.video{
+    display: block;
+    width: 100%;
+}
+
+.videoDiv{
+    flex-basis: 31.3333%;
+}
+
+#footer{
+    color: black;
+    font-weight: 600;
+}

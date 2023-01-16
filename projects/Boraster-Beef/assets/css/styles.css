@@ -1,0 +1,18 @@
+#logo{
+    padding: 0 !important;
+    
+}
+
+#logo img{
+    height: 14em !important;
+}
+
+#main .item.thumb img {
+    object-fit: fill;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
