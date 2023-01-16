@@ -1,4 +1,4 @@
-#Portfolio
+Portfolio
 
 It is a project that showcases my skills and knowledge that I have gained during my career as Software Developer. 
 
