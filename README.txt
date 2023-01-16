@@ -19,8 +19,8 @@ Lessons Learned:
 I have developed more intense skills in CSS while doing this portfolio and down the line looking to add more JS functions on it.
 
 
-Andy Fresh: https://abdul-rauf.netlify.app/projects/html5up-spectral/index.html
+Andy Fresh: https://abdul-rauf.netlify.app/projects/andy-fresh/
 
 War-Card-Game: https://arhoss.github.io/Card-Game-Of-War/index.html
 
-Al-Huda Musallah: https://abdul-rauf.netlify.app/projects/html5up-dimension/index.html
+Al-Huda Musallah: https://abdul-rauf.netlify.app/projects/musallah-alhuda/
