@@ -1,4 +1,4 @@
-My Awesome Project
+Portfolio
 
 It is a project that showcases skills and knowledge I have gained during my career as Software Developer. 
 
